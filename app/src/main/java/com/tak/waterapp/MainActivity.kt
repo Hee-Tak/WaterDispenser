@@ -25,4 +25,6 @@ class MainActivity : AppCompatActivity() {
  * 아니면 첫소리부터 따르는거까지 분석해서 ...하는거
  * 그니까 첫소리부터 따르는거까지 들리는 mp3 파일에서 좀 더 늘려가지고 일부러.
  * 그리고 얘가 이제 컵이 full 이라는 것을 인식을 하면, 알아서 mp3 파일을 꺼버리게. 그렇게할까
+ * https://sh-itstory.tistory.com/62
+ * 이거 링크 참고
  */
