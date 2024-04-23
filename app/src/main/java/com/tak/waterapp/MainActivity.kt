@@ -30,4 +30,5 @@ class MainActivity : AppCompatActivity() {
  * 그리고 얘가 이제 컵이 full 이라는 것을 인식을 하면, 알아서 mp3 파일을 꺼버리게. 그렇게할까
  * https://sh-itstory.tistory.com/62
  * 이거 링크 참고
+ *
  */
