@@ -32,6 +32,7 @@ class MainActivity : AppCompatActivity() {
  * 이거 링크 참고
  *
  *
+ * 초월 시뮬 생각중
  *
  *
  */
