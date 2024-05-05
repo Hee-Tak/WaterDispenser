@@ -33,7 +33,7 @@ class MainActivity : AppCompatActivity() {
  *
  *
  * 초월 시뮬 생각중
- * 한 칸을 이미지뷰로 해야겠는걸
+ * 한 칸을 이미지뷰로 해야겠는걸 dd
  *
  */
 
